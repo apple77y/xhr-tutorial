@@ -1,0 +1,25 @@
+{
+    "globals": {
+
+    },
+
+    /*
+     * ENVIRONMENTS
+     * =================
+     */
+    "jquery": true,
+    "browser": true,
+    "wsh": true,
+    "esversion": 6,
+
+    /*
+     * ENFORCING OPTIONS
+     * =================
+     */
+    "quotmark": "double",
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "immed": true,
+    "noempty": true
+}
